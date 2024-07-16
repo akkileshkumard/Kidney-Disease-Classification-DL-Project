@@ -1,1 +1,1 @@
-# Kidney-Disease-Classification-DL-Project
+# End-to-End Kidney Disease Classification DL Project
